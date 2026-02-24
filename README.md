@@ -46,9 +46,9 @@ AWSEC2-AUTOMATION/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Vishnu1805/SERVICE-AUTOMATION-AWS.git
 
-cd AWSEC2-AUTOMATION
+cd SERVICE-AUTOMATION-AWS
 
 
 ### 2️⃣ Create virtual environment (recommended)
