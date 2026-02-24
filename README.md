@@ -19,7 +19,7 @@ Automates AWS EC2 lifecycle operations using Python and boto3
 ## 🧠 Project Structure
 
 ```
-AWSEC2-AUTOMATION/
+SERVICE-AUTOMATION-AWS/
 │
 ├── .venv/                 # Python virtual environment (ignored)
 ├── .env                   # Environment variables (DO NOT COMMIT)
