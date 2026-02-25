@@ -90,10 +90,15 @@ You will see:
 
 ```
 ====== EC2 MANAGER ======
-1. Create Instance
+1. Create Instance(s)
 2. Start Instance
 3. Stop Instance
 4. Terminate Instance
+5. Start ALL Instances
+6. Stop ALL Instances
+7. Terminate ALL Instances
+=========================
+
 ```
 
 ---
